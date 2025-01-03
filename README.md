@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38674967-c705-4e82-a8c1-4df67e4276df" width="60%">
+  <img src="https://github.com/user-attachments/assets/38674967-c705-4e82-a8c1-4df67e4276df" width="55%">
 </p>
 
 ## 🖥️ N빵의 정석
@@ -23,6 +23,11 @@
 ## 📁 프로젝트 상세 설명
 정산을 진행할 인원을 선택한 후, 모임으로 발생한 영수증과 상세 품목을 APP에 입력합니다. 이후 계산기에 상세 품목이 나오면 N분의 1을 진행할 인원들의 버튼을 눌러 정산을 진행합니다. 정산이 완료된 후 정산 내역을 공유하여 정산 비용 청구할 수 있습니다.
 
+  (1) 인원 선택 화면  
+  <img src="https://github.com/user-attachments/assets/41283618-0740-4a47-9c16-651900a0c748" width="30%">  
+  ‘+, - 버튼’을 통해 정산을 진행할 인원을 2 ~ 8명 사이로 선택할 수 있습니다.  
+
+  
 <br>
 
 
