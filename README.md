@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb57927b-d536-48fb-95e4-58fd2da3f988" width="60%">
+  <img src="https://github.com/user-attachments/assets/38674967-c705-4e82-a8c1-4df67e4276df" width="60%">
 </p>
 
 ## 🖥️ N빵의 정석
